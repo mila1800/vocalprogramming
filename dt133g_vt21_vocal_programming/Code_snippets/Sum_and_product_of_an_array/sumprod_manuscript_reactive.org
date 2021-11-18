@@ -1,0 +1,47 @@
+phrase public space
+phrase class space
+title sum uppercase pit red odd drum enter
+
+brace enter
+
+phrase static space
+sit near trap space
+phrase sum space
+equals space
+zero semicolon enter
+
+phrase static space
+sit near trap space
+pit red odd drum space
+equals space
+one semicolon enter
+
+phrase public space
+phrase static space
+phrase void space
+phrase main paren phrase final space
+title string square right square space
+air red gust sun right paren enter
+
+brace enter
+
+title observable left angle title integer rangle space
+air red red space
+equals space
+title observable dot phrase from title array paren phrase new space
+title integer square right square space
+brace zero comma one comma two comma three comma four comma six right brace right paren semicolon enter
+
+air red red dot phrase subscribe paren e space
+dash rangle space
+brace enter
+phrase sum space
+plus equals space
+each semicolon enter
+
+pit red odd drum space
+asterix equals space
+each semicolon enter
+right brace right paren semicolon enter
+right brace enter
+right brace enter

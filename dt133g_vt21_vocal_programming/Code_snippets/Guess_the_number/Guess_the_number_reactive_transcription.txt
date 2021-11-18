@@ -1,0 +1,18 @@
+phrase import - space - word java - dot urge trap sit look dot - title Scanner - semicolon - slap
+phrase import - space - sit odd dot - word reactive - plex dot - title Observable - semicolon slap
+slap
+phrase public class - space - title snake guess the number reactive - space brace enter
+phrase public static void main - paren title string - square go right - space - air red gust sun - go right space - word throws - space - hammer interrupted exception - space brace enter
+sit near trap space near space equals space - paren sit near trap - go right - paren title dotted math random - paren go right - space star space - ten space plus space one - end - semicolon slap
+title dotted system out print - paren double quote - sentence guess the number between - space one - space word and - space ten - colon space end semicolon slap
+title Scanner - space sun cap space equals space - word new - space - title scanner paren - title dotted system in - end semicolon slap
+title Observable - angle title string - right angle - space word in - space equals space - title Observable - dot angle title string - right angle - word create - paren word subscriber space arrow space brace enter
+title Boolean - space - word again - space equals space - word true semicolon slap
+state while - word again - end brace enter
+sit near trap space - word input - space equals space - sun cap dot - word next - uppercase sit - near trap - paren end semicolon slap
+state if - word input - space bang equals space near end brace enter
+title dotted system out print - paren - double quote -  title Wrong - bang space - sentence guess again - colon space end - semicolon go down
+space phrase else space brace enter
+title dotted system out print - paren double quote - sentence well guessed - bang - end semicolon slap
+word again - space equals space - word false - semicolon - go down down down semicolon slap
+dotted in subscribe - paren title dotted System in - colon colon - word print look near end semicolon

@@ -1,0 +1,50 @@
+phrase public space
+phrase class space
+title sum uppercase pit red odd drum enter
+
+brace enter
+
+phrase public space
+phrase static space
+phrase void space
+phrase main paren phrase final space
+title string square right square space
+air red gust sun right paren enter
+
+
+brace enter
+
+sit near trap space
+sun urge made space
+equals space
+zero semicolon enter
+
+sit near trap space pit red odd drum space
+equals space
+one semicolon enter
+
+sit near trap square right square space
+air red gust space
+equals space
+brace one comma two comma three comma four comma five right brace semicolon enter
+
+state for paren sit near trap space
+sit space
+colon space
+air red gust right paren enter
+
+brace enter
+
+sun urge made space
+plus equals space
+sit semicolon enter
+
+pit red odd drum space
+asterix equals space
+sit semicolon enter
+
+right brace enter
+
+right brace enter
+
+right brace enter

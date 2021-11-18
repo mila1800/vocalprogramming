@@ -1,0 +1,9 @@
+phrase public class - space - title snake calculation imperative - space brace enter
+phrase public static void main - paren title string - square go right - space - air red gust sun - go right space brace enter
+sit near trap - space air - space equals space - one - semicolon - slap
+sit near trap - space bat - space equals space - two - semicolon - slap
+title dotted system out print - look near - paren cap paren - air comma bat - end semicolon slap
+air space equals space four semicolon slap
+title dotted system out print - look near - paren cap paren - air comma bat - end semicolon go down slap
+phrase public static - space sit near trap space cap - paren sit near trap space air comma
+space sit near trap space bat end space brace space -  word return - space air space plus space bat space semicolon

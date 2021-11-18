@@ -1,0 +1,83 @@
+phrase public class space
+title words title of uppercase each quench uppercase cap harp air red sun
+brace enter
+
+phrase public static void main paren square right square space
+air red gust sun right paren space
+phrase throws uppercase sit uppercase odd title exception space brace enter
+uppercase urge red look space
+urge red look space
+equals space
+phrase new space
+uppercase urge red space paren double quote harp trap trap pit dot slash
+whale sit chrunch sit dot phrase puzzle red sun dot odd red gust slash
+phrase pub slash phrase word phrase lists slash phrase unix drum sit cap trap dot trap plex trap double quote right paren semicolon enter
+
+title input title stream title reader space
+sit sun red space
+equals space
+phrase new space
+title input title stream title reader paren urge red look dot phrase open
+title space paren right paren right paren semicolon enter
+title buffer each drum space
+phrase reader space
+equals space
+phrase new space title buffer each drum title reader paren sit sun red right paren semicolon enter
+
+title map angle title string comma space
+title collection angle title string rangle rangle space
+phrase anagrams space
+equals space
+phrase new space
+
+title hash title map angle title string comma space
+title collection angle title string rangle rangle paren right paren semicolon enter
+
+title string space
+phrase word semicolon enter
+
+sit near trap space
+phrase count space
+equals space 
+zero semicolon enter 
+
+state while paren paren phrase word space 
+equals space 
+phrase reader dot phrase read title line paren right paren right paren space 
+exclamation point equals space 
+phrase null right paren space 
+brace enter 
+
+cap harp air red square right square space cap harp air red sun space 
+equals space 
+phrase word dot phrase to title uppercase cap harp air red title array paren right paren semicolon enter 
+title arrays dot phrase sort paren cap harp air red sun right paren semicolon enter 
+title string phrase key space 
+equals space 
+phrase new title string paren cap harp air red sun right paren semicolon enter 
+state if paren exclamation point phrase anagrams dot phrase contains title key paren phrase key right paren right paren enter 
+
+phrase anagrams dot phrase put paren phrase key comma space 
+phrase new space 
+title array title list angle title string rangle paren right paren right paren semicolon enter 
+
+phrase anagrams dot phrase get paren phrase key right paren dot phrase add paren phrase word right paren semicolon enter 
+
+phrase count space 
+equals space 
+title math dot phrase max paren phrase count comma phrase anagrams dot phrase get paren phrase key right paren dot phrase size paren right paren right paren  semicolon enter 
+
+right brace enter 
+
+phrase reader dot phrase close paren right paren semicolon enter 
+
+state for paren title collection angle title string rangle space 
+air near air space
+colon space phrase anagrams dot phrase values paren right paren right paren enter 
+state if paren air near air dot phrase size paren right paren space rangle equals space 
+phrase count right paren enter
+
+title system dot phrase out dot phrase print look near right paren semicolon enter
+
+right brace enter
+right brace enter

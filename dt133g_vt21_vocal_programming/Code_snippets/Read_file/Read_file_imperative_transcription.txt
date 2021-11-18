@@ -1,0 +1,15 @@
+phrase import - space - word java - dot sit odd dot - hammer FileReader - semicolon slap
+phrase import - space - word java - dot sit odd dot - uppercase sit - uppercase odd - title Exception semicolon slap
+slap
+phrase public class - space - title snake read file imperative - space brace enter
+phrase public static void - space - camel read File - paren - title String space - smash file name - end space - word throws - space - uppercase sit uppercase odd - title Exception space - brace enter
+hammer file reader - space - word in - space equals space - word new - space - hammer file reader - paren - smash file name - end semicolon slap
+title string - title builder - space - word contents - space equals space - word new - space - title string - title builder - paren end semicolon slap
+word char - square - go right - word buffer - space equals space - word new - space - word char - square four zero nine six - end semicolon slap
+sit near trap space - word read - equals zero semicolon slap
+word do - space brace enter
+word contents - dot - word append - paren word buffer - comma space zero - comma space word read - end semicolon slap
+word read - space equals space - word in - dot word read - paren - word buffer - end semicolon - go down
+space - state while - word read - space - greater than equals - space zero - end semicolon slap
+word in - dot word close - paren end semicolon slap
+title dotted system out print - look near - paren - word contents - dot - camel to string -paren end semicolon slap

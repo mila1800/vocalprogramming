@@ -1,0 +1,13 @@
+phrase import - space - word java - dot sit odd dot - hammer Buffered reader - semicolon slap
+phrase import - space - word java - dot sit odd dot - hammer  File Input Stream - semicolon slap
+phrase import - space - word java - dot sit odd dot - hammer File not Found Exception - semicolon slap
+phrase import - space - word java - dot sit odd dot - uppercase Sit - uppercase Odd - title Exception - semicolon slap
+phrase import - space - word java - dot sit odd dot - hammer Input Stream Reader - semicolon slap
+phrase import - space - sit odd dot - word reactive - plex - dot title Observable - semicolon slap
+
+phrase public class - space - title snake Read file reactive - space - brace - enter
+
+phrase public static void - space - camel read file - paren - title String - space smash file name - space - words throws - space - hammer File not found exception - space - brace - enter
+hammer Buffered Reader - space - word in - space equals space - word new - space - hammer Buffered Reader - paren - word new - space - hammer Input Stream Reader - paren - word new - space - hammer File input stream - paren - smash file name - end - semicolon- slap
+title Observable - dot - hammer from iterable - paren paren - go right space - arrow - space - word in - dot - word lines - paren - go right dot- word iterator - paren end - slap
+dot - word subscribe - paren paren - title dotted system out - colon colon - word print - look near - end - semicolon
